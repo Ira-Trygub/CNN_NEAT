@@ -1,0 +1,8 @@
+
+ population_size : 100
+ min_layers : 3
+ max_layers : 10
+ num_generations : 100
+
+
+
